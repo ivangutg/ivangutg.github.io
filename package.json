@@ -1,7 +1,7 @@
 {
-  "name": "taskdb-backend",
+  "name": "sabor-fuego-restaurante",
   "version": "1.0.0",
-  "description": "API REST con Node.js, Express y MongoDB Atlas — Práctica 3.1 ESCOM",
+  "description": "API REST + frontend para restaurante La Lumbre — Práctica 3.1 ESCOM IPN",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
