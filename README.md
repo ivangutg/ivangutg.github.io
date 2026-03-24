@@ -1,4 +1,4 @@
-# 🌮 Sabor & Fuego — Práctica 3.1
+# 🌮 Los Consentidos — Práctica 3.1
 
 **Instituto Politécnico Nacional** | **Escuela Superior de Cómputo (ESCOM)** 
 **Ingeniería en Sistemas Computacionales / 2020** 
@@ -8,11 +8,11 @@
 ## 📋 Portada 
 
 * **Nombre del proyecto:** Los Consentidos 
-* **Integrantes del equipo:** Gutiérrez Gómez Iván
+* **Integrantes del equipo:**
+* Gutiérrez Gómez Iván
 * Manjarrez Váquez Ángel Ian
 * Márquez Romero David
 * Sosa Jiménez Arturo
-*  
 * **Fecha de entrega:** Lunes 23 de marzo de 2026 
 * **URL de la versión estática (GitHub Pages):** [ivangutg.github.io] 
 * **URL del repositorio de código:** [https://github.com/ivangutg/ivangutg.github.io] 
