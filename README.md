@@ -86,4 +86,10 @@ El sistema se compone de los siguientes modelos principales interrelacionados:
 
 **Conclusión:** GitHub Pages es excelente y ultrarrápido para alojar interfaces visuales, pero carece de procesamiento backend. Render es ideal para la lógica robusta y conexión a bases de datos. Al combinarlos, obtenemos lo mejor de ambos mundos: un frontend rápido y siempre disponible que se comunica de forma asíncrona con un servidor potente.
 
+<img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/842b75d3-d0fe-4d17-bdf5-1c6d15514494" />
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/a4917c7a-d284-4530-ad00-d939eaa0c385" />
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/faf7e694-005b-412a-bcc3-0369a73bb8d8" />
+<img width="1915" height="907" alt="image" src="https://github.com/user-attachments/assets/4c0ccfc9-a494-4c08-9433-c8528f25867a" />
+
+
 ---
